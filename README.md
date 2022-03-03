@@ -1,4 +1,4 @@
-Selenium / Allure / JUnit5 / Selenoid  [![CircleCI](https://circleci.com/gh/nokunev/craigslist-ui-tests.svg?style=shield)](https://app.circleci.com/pipelines/github/nokunev/craigslist-ui-tests)
+Selenium / Allure / JUnit5 / Selenoid  [![CircleCI](https://circleci.com/gh/nikolajsokunevs/reklamabb.svg?style=shield)](https://app.circleci.com/pipelines/github/nikolajsokunevs/reklamabb)
 
 
 ### Scope:
