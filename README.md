@@ -25,7 +25,7 @@ You can specify browser by using one of the following switches:
 Also you can specify where to run tests, on lochal machine / HUB:
 
 -Dselenium.remoteDriver=true
--Dselenium.seleniumGridURL=http://207.154.192.171:4444  
+-Dselenium.seleniumGridURL=http://208.68.36.115:4444  
 
 ### How to run test?
         mvn clean install test -DthreadCount=5 - execute all tests(Selenoid is used by default, )
