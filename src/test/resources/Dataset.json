@@ -1,0 +1,12 @@
+{
+  "lv": {
+    "favouritesText": "Jūsu favorīti ",
+    "car": "Audi"
+  },
+  "ru": {
+    "favouritesText": "Избранное ",
+    "car": "Audi"
+  },
+  "common": {
+  }
+}
