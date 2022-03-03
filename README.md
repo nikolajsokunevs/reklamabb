@@ -10,7 +10,6 @@ Selenium / Allure / JUnit5 / Selenoid  [![CircleCI](https://circleci.com/gh/niko
     6. DataDriver approuch/Test parameterization(Each test can be run in multiple languages)
     7. Parallel test execution
     8. Logging
-    9. Cucumber(Cucumber is added only for the separate branch 'Cucumber')
     
 ### Configuration:
 
