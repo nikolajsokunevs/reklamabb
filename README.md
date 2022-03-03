@@ -35,8 +35,8 @@ Also you can specify where to run tests, on lochal machine / HUB:
 ![report][screenshot2]
 ![selenoid][screenshot3]
 
-[screenshot1]: https://github.com/nikolajsokunevs/reklamabb/raw/main/images/pipeline.png
-[screenshot2]: https://github.com/nikolajsokunevs/reklamabb/raw/main/images/reports.png
-[screenshot3]: https://github.com/nikolajsokunevs/reklamabb/raw/main/images/selenoid.png
+[screenshot1]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/pipeline.png
+[screenshot2]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/reports.png
+[screenshot3]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/selenoid.png
 
 
