@@ -29,4 +29,7 @@ Also you can specify where to run tests, on lochal machine / HUB:
 ### How to run test?
         mvn clean install test -DthreadCount=5 - execute all tests(Selenoid is used by default, )
         mvn allure:serve - generate allure report and start jetty webserver for quick access
+        
+Report example:
+
 
