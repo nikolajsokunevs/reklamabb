@@ -30,6 +30,13 @@ Also you can specify where to run tests, on lochal machine / HUB:
         mvn clean install test -DthreadCount=5 - execute all tests(Selenoid is used by default, )
         mvn allure:serve - generate allure report and start jetty webserver for quick access
         
-Report example:
+### Examples:
+![pipeline][screenshot1]
+![report][screenshot2]
+![selenoid][screenshot3]
+
+[screenshot1]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/pipeline.png
+[screenshot2]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/reports.png
+[screenshot3]: https://github.com/nikolajsokunevs/reklamabb/raw/master/images/selenoid.png
 
 
