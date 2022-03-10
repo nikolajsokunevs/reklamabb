@@ -1,6 +1,5 @@
 Selenium / Allure / JUnit5 / Selenoid  [![CircleCI](https://circleci.com/gh/nikolajsokunevs/reklamabb.svg?style=shield)](https://app.circleci.com/pipelines/github/nikolajsokunevs/reklamabb)
 
-
 ### Scope:
     1. Test execution on remote machine(VM DigitalOcean+Docker+Selenoid). 
     2. Screenshot creation for failed tests
